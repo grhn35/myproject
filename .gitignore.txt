@@ -1,0 +1,3 @@
+Birinci_dosya.txt
+Birinci_foto.jpg
+Birinci_sifredokuman.dcx
